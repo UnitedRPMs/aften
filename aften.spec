@@ -1,3 +1,5 @@
+%global debug_package %{nil}
+
 Name:           aften
 Version:	0.0.8
 Release:	2%{?dist}
